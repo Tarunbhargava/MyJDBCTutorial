@@ -1,1 +1,2 @@
 # MyJDBCTutorial
+jdbc connectivity + Mysql
